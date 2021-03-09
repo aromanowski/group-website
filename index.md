@@ -1,3 +1,7 @@
+---
+lesson-example: "https://carpentries.github.io/lesson-example/"
+---
+
 # {{ site.title }}
 
 ## Summary
@@ -11,3 +15,4 @@ Have any questions about what we do? [We'd love to hear from you!](mailto:{{ sit
 ## Time
 {{ site.time }}
 
+See some [examples of our work]({{ page.lesson-example }})

@@ -25,7 +25,7 @@ My text with ~~strikethrough~~
 2. Second item
 3. Third item
 
-![alt text](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png "Image of the carpentries that I inserted here"){:height="50%" width="50%"}
+![alt text](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png "Image of the carpentries that I inserted here")
 
 Using inline links: [Carpentries Webpage][carpentries]
 

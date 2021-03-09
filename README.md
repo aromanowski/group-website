@@ -25,4 +25,8 @@ My text with ~~strikethrough~~
 2. Second item
 3. Third item
 
-![alt text](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png "Logo Title Text 1")
+![alt text](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png "Image of the carpentries that I inserted here"){:height="50%" width="50%"}
+
+Using inline links: [Carpentries Webpage][carpentries]
+
+[carpentries]: https://carpentries.org/

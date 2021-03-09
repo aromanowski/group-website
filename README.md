@@ -17,3 +17,14 @@ are caused by two trailing spaces at the end of a line.
 - Data Carpentry
 - Library Carpentry
 
+## My second level heading
+My text with ~~strikethrough~~
+
+### My third level heading
+1. First item
+2. Second item
+3. Third item
+
+[!alt text][image1]
+
+[image1](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png "Logo Title Text 1")

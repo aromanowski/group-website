@@ -18,3 +18,5 @@ Have any questions about what we do? [We'd love to hear from you!](mailto:{{ sit
 {{ site.time }}
 
 See some [examples of our work]({{ page.lesson-example }})
+
+{% include contact.md %}

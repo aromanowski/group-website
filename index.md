@@ -1,7 +1,7 @@
 ---
 lesson-example: "https://carpentries.github.io/lesson-example/"
-title: "Our index title"
 layout: default
+title: "Our index page"
 ---
 
 # {{ site.title }}

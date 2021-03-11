@@ -21,5 +21,5 @@ Have any questions about what we do? [We'd love to hear from you!](mailto:{{ sit
 
 See some [examples of our work]({{ page.lesson-example }})
 
-{% include post_list %}
+{% include post_list.html %}
 

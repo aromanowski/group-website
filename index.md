@@ -7,6 +7,9 @@ title: "Learning how to build websites with Jekyll"
 ## Description
 {{ site.description }}  
 
+{{ assign lead = site.team_members | where:"role", "project lead" | first }}
+{{ lead.name }}
+
 ## About
 More details about the project can be found in the [About](about.md) page.
 

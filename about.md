@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 This is an *about* file!
 
 # About

@@ -21,8 +21,5 @@ Have any questions about what we do? [We'd love to hear from you!](mailto:{{ sit
 
 See some [examples of our work]({{ page.lesson-example }})
 
-## Blog posts
-{% for post in site.posts %  | sort: "author" %}
-- {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url }}) by {{ post.author }}
-{% endfor %}
+{% include post_list %}
 
